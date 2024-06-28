@@ -1,0 +1,8 @@
+../Core/Src/main.c:139:8:BMP280_WriteRegister8	1
+../Core/Src/main.c:127:13:BMP280_ReadRegister8	1
+../Core/Src/main.c:148:14:BMP280_Read16_LE	1
+../Core/Src/main.c:171:13:BMP280_ReadTemperature	1
+../Core/Src/main.c:83:5:_write	1
+../Core/Src/main.c:248:6:SystemClock_Config	3
+../Core/Src/main.c:99:5:main	6
+../Core/Src/main.c:406:6:Error_Handler	1

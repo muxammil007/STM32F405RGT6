@@ -1,0 +1,9 @@
+../Core/Src/main.c:96:5:_write	8	static
+../Core/Src/main.c:106:6:writeRegister	32	static
+../Core/Src/main.c:114:11:readRegister	24	static
+../Core/Src/main.c:126:8:readMultipleData	32	static
+../Core/Src/main.c:136:8:initADXL357	16	static
+../Core/Src/main.c:162:8:readADXL357Data	64	static
+../Core/Src/main.c:244:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:193:5:main	48	static,ignoring_inline_asm
+../Core/Src/main.c:405:6:Error_Handler	0	static,ignoring_inline_asm
